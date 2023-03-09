@@ -1,5 +1,4 @@
-# Assignment-02-Basic-Statictics-02
-Solutions for the basic statictics problems
+
 SET-01 Topics: Descriptive Statistics and Probability
 
 	Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2
